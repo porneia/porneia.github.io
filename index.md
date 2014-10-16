@@ -1,3 +1,7 @@
+---
+title: Porneia delights' GitHub Pages
+---
+
 # Porneia delights' GitHub Pages
 
 ## Lorem ipsum
