@@ -4,6 +4,13 @@
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="robots" content="index, follow">
+<style type="text/css">
+<!--
+footer {
+    font-size:small;
+}
+-->
+</style>
 </head>
 
 <body>
@@ -12,8 +19,13 @@
 
 <hr>
 
+<footer>
 <p>
-<a href="https://github.com/porneia/porneia.github.io/blob/master/{{ page.path }}">{{ page.path }}</a> &mdash; last modified: {{ page.date }}
+Copyleft &copy; <a href="mailto:porneiaATfreeDOTfr">Porneia delights</a>
+&mdash;
+file <a href="https://github.com/porneia/porneia.github.io/blob/master/{{
+              page.path }}">{{ page.path }}</a> first published the {{ page.publish }}{% if page.update %} and was last updated on {{ page.update }}{% endif %} &mdash; last modified: {{ page.date }}
+</footer>
 
 </body>
 </html>

@@ -1,6 +1,8 @@
 ---
 title: Porneia delights' GitHub Pages
 date: Thu Oct 16 06:16:25 CEST 2014
+publish: october 15th
+update: october 16th
 
 ---
 
