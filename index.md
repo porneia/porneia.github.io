@@ -6,7 +6,7 @@ date: 2014-10-16 09:34:43 +0200
 
 # Porneia delights' GitHub Pages
 
-Première rédaction de ce fichier le 15 octobre 2014
+Première rédaction de ce fichier le 15 octobre 2014  
 Dernière mise à jour le 16 octobre 2014
 
 ## Lorem ipsum
