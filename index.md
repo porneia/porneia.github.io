@@ -1,5 +1,7 @@
 ---
 title: Porneia delights' GitHub Pages
+date: Thu Oct 16 06:16:25 CEST 2014
+
 ---
 
 # Porneia delights' GitHub Pages
@@ -35,7 +37,3 @@ lobortis dolor. Aliquam mauris turpis, porttitor in laoreet vitae, auctor a
 purus. Sed at enim eu tortor tincidunt tincidunt a in neque. Pellentesque
 molestie quam volutpat sagittis porttitor. Mauris malesuada varius urna, sed
 tempor odio bibendum quis.
-
-----------
-
-index.md &mdash; last modified: Thu Oct 16 05:33:10 CEST 2014
