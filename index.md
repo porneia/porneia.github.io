@@ -38,4 +38,4 @@ tempor odio bibendum quis.
 
 ----------
 
-index.md | last modified: Thu Oct 16 05:33:10 CEST 2014
+index.md &mdash; last modified: Thu Oct 16 05:33:10 CEST 2014
