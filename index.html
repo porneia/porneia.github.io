@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<p>
+{% for post in site.posts %}
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{{ post.content }}
+<p class="petit">
+<a href="file:///home/e201/y/e201.github.io/_site{{ post.url }}">Lien permanent vers le fichier.</a>
+<hr />
+{% endfor %}
